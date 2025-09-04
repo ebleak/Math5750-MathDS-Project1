@@ -12,7 +12,7 @@ and copy this template repository. Make your new repository is public so that I 
 Click the following badge to open the notebook in Google Colab. 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/ebleak/Math5750-MathDS-Project1/blob/project1.ipynb)
+https://colab.research.google.com/github/ebleak/Math5750-MathDS-Project1/blob/main/project1.ipynb)
 
 ### Save a copy in GitHub.
 Immediately 
